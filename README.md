@@ -1,4 +1,4 @@
-# 🚗 Exercício – Controle de Funções de um Carro em Python
+# 🚗 Exercício – Controle de Funções de um Carro em Java
 
 Este repositório contém a solução do exercício **“Carro”**, que implementa uma classe capaz de controlar as funções básicas de um automóvel.
 
